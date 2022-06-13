@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "cftkb")(type "KiCad")(uri "${KIPRJMOD}/cftkb.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_PCB_KailhSocket")(type "KiCad")(uri "${KIPRJMOD}/footprints/CherryMX_PCB_KailhSocket.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_PCB_KailhSocket_StabWireBottom")(type "KiCad")(uri "${KIPRJMOD}/footprints/CherryMX_PCB_KailhSocket_StabWireBottom.pretty")(options "")(descr ""))
+)
